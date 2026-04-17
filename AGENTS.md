@@ -36,7 +36,7 @@ The service uses:
 - `patient-service/src/main/resources/application.yaml`: service configuration.
 - `patient-service/src/test/java/com/sadcodes/patientservice`: tests.
 
-Current domain code includes a `Patient` JPA entity under `com.sadcodes.patientservice.mode`. Keep package names consistent with the existing code unless the task explicitly asks for package cleanup or renaming.
+Current domain code includes a `Patient` JPA entity under `com.sadcodes.patientservice.model`. Keep package names consistent with the existing code unless the task explicitly asks for package cleanup or renaming.
 
 ## Build And Run
 

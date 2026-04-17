@@ -1,4 +1,4 @@
-package com.sadcodes.patientservice.mode;
+package com.sadcodes.patientservice.model;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.Email;
